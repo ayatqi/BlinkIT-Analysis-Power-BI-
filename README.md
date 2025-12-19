@@ -9,7 +9,7 @@ The dashboard helps identify **key business insights and optimization opportunit
 ---
 <img width="1285" height="720" alt="image" src="https://github.com/user-attachments/assets/25bb030b-48df-4e81-8299-b01385532951" />
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 The dashboard is divided into the following sections:
 
@@ -45,7 +45,7 @@ This section includes:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Power BI  
 - DAX  
 - Data Modeling & Visualization Techniques
