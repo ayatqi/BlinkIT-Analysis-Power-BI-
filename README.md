@@ -4,7 +4,7 @@ An **interactive Power BI dashboard** designed to analyze **sales performance, c
 The dashboard helps identify **key business insights and optimization opportunities** using multiple KPIs and dynamic visualizations.
 
 > **Note:** This dashboard is inspired by and built following this YouTube tutorial by  
-> **Chandoo**: https://youtu.be/moZ2cL3a90U
+> **Data Tutorials**: [https://youtu.be/moZ2cL3a90U](https://youtu.be/mmxVCFceQgU)
 
 ---
 <img width="1285" height="720" alt="image" src="https://github.com/user-attachments/assets/25bb030b-48df-4e81-8299-b01385532951" />
